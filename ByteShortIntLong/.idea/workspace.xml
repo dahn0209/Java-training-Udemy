@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f1d362e-0726-4eff-b8b3-cab1850a3408" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-The-Last-Judgment.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1099TaxForm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../136740151_10157744004737927_2590737501009513907_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../159253287_495707745149420_8505447796620415661_n.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1628746796330.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1639670472915.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16925705.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../211677.p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../241963508_632817444771782_6226174499422967016_n.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../26 DAVID FSA 2101 .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../David Ahn FullStack Introduction.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/MacOS/Discord Helper (GPU)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Plugin).app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Plugin).app/Contents/MacOS/Discord Helper (Plugin)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Plugin).app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Plugin).app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/MacOS/Discord Helper (Renderer)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Discord Helper.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Electron Framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Helpers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libEGL.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libGLESv2.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libvk_swiftshader.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/vk_swiftshader_icd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_100_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_200_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/resources.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/v8_context_snapshot.x86_64.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Electron Framework.framework/Versions/Current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Mantle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Mantle.framework/Versions/Current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/ReactiveObjC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/Resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/ReactiveObjC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/ReactiveObjC.framework/Versions/Current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Squirrel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Frameworks/Squirrel.framework/Versions/Current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/MacOS/Discord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Resources/app.asar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Resources/bootstrap/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Resources/build_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/Resources/electron.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Library/LaunchServices/org.mozilla.updater" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/XUL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/MacOS/crashreporter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenu.nib/classes.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenu.nib/info.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenu.nib/keyedobjects.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenuRTL.nib/classes.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenuRTL.nib/info.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/English.lproj/MainMenuRTL.nib/keyedobjects.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/crashreporter.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/Resources/crashreporter.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/crashreporter.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/firefox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/firefox-bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libfreebl3.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/liblgpllibs.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libmozavcodec.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libmozavutil.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libmozglue.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libnss3.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libnssckbi.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libosclientcerts.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/libsoftokn3.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/minidump-analyzer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/pingsender" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/Resources/English.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/Resources/plugin-container.sig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/plugin-container.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/MacOS/org.mozilla.updater" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Resources/English.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Resources/English.lproj/MainMenu.nib/classes.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Resources/English.lproj/MainMenu.nib/info.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Resources/English.lproj/MainMenu.nib/keyedobjects.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/Resources/updater.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/MacOS/updater.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/XUL.sig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/application.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/crashreporter-override.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/features/doh-rollout@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/features/screenshots@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/features/webcompat-reporter@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/browser/omni.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/defaults/pref/channel-prefs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/dependentlibs.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/document.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/en.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/firefox-bin.sig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/firefox.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/firefox.sig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/gmp-clearkey/0.1/libclearkey.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/gmp-clearkey/0.1/libclearkey.dylib.sig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/gmp-clearkey/0.1/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/omni.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/platform.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/precomplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/removed-files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/MainMenu.nib/classes.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/MainMenu.nib/info.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/MainMenu.nib/keyedobjects.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/arrowN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/arrowN@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/arrowS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/arrowS@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/cell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/cell@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/colResize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/colResize@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/help@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/move@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/rowResize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/rowResize@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNE@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNESW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNESW@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNS@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNW@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNWSE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeNWSE@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeSE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeSE@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/sizeSW@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/vtIBeam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/vtIBeam@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/zoomIn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/zoomIn@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/zoomOut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/res/cursors/zoomOut@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/update-settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/Resources/updater.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Firefox.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-11 at 3.22.47 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 1.41.32 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 1.41.47 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.12.31 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.50.53 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.50.59 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.51.57 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.52.11 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.54.44 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.55.46 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.56.25 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.56.34 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 10.59.22 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /DOM Events, Pixelate/Screen Shot 2020-11-12 at 11.00.17 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /Event Listener and Handler  /notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /flexbox/style.ccs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 10.27.34 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 10.32.38 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 10.41.05 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 10.52.37 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 10.58.56 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 11.00.57 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 11.02.34 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 11.05.39 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 11.06.31 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-11 at 11.59.19 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-12 at 12.01.06 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-12 at 12.05.41 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-12 at 12.06.28 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FoundationsClass /intro to Git and Git Hub/Screen Shot 2020-11-12 at 12.07.52 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Linux (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/REACTO - Dynamic Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Recording 2021-02-16 at 2.42.27 AM.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-01-28 at 11.30.33 AM (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-01-28 at 11.30.33 AM (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-01-28 at 11.30.33 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-02-02 at 11.39.44 AM (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-02-02 at 11.39.44 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-02-19 at 5.07.21 PM (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fullstack Extra lecture slides/Screen Shot 2021-02-19 at 5.07.21 PM (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTTP.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infinite_Jumper_Phaser3_Modern_JavaScript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Accutar Biotech-Software Engineer-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Bombas Software Engineer-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn CB Insights-Software Engineer-Fullstack-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Capsule- Software Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Conde Nast-Software Engineer 1, WIRED-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Ergo-Junior Front End Develop position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Junior Front End_Full Stack Software Engineer at Plectica-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Lattice-Software Engineer-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Lob-Fullstack Software Engineer,-Growth-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Pinto-Junior Full Stack Software Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn SpinCar-Software Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn TQ TEZOS Front End Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Technical Resume 2 .pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Technical Resume 2 PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Technical Resume.docx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn The Phoenix Group-Frontend Engineer-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn Vestwell-Junior Full Stack Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /David Ahn feather-Fullstack Software Engineer,Frontend-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /Unemployment Insurance Benefits 08-30-21.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /_David Ahn Droit-Software Engineer position-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /_David Ahn Front End Developer at Americas Test Kitchen-Cover Letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Job Application /_David Ahn JP Morgan Chase-Software Engineer program-Cover Letter.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="278ggKaSc4BYjPy7Y7N2ZL0VQ8A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ByteShortIntLong" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f1d362e-0726-4eff-b8b3-cab1850a3408" name="Changes" comment="" />
+      <created>1648707237419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648707237419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
