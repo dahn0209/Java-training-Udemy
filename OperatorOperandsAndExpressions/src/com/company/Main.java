@@ -1,5 +1,8 @@
 package com.company;
 
+import javax.swing.plaf.synth.SynthPopupMenuUI;
+import java.sql.SQLOutput;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -39,6 +42,9 @@ public class Main {
         result-=2;  //10-2=8
         System.out.println("10-2= "+result);
 
+        boolean isAlien=false;   //one equal is an assigment operator
+        if(isAlien==false)  ///Don't put a semi-colon after parenthesis//two equal operator checks where the operator is false
+            System.out.println("It is not an alien!");
 
 
 
