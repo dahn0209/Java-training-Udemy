@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-training-Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java-training-Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorOperandsAndExpressions/OperatorOperandsAndExpressions.iml" filepath="$PROJECT_DIR$/OperatorOperandsAndExpressions/OperatorOperandsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceIndenting/StatementsWhiteSpaceIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceIndenting/StatementsWhiteSpaceIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatAndDoublePrimitiveType/floatAndDoublePrimitiveType.iml" filepath="$PROJECT_DIR$/floatAndDoublePrimitiveType/floatAndDoublePrimitiveType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifThen/ifThen.iml" filepath="$PROJECT_DIR$/ifThen/ifThen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyWordsAndExpression/keyWordsAndExpression.iml" filepath="$PROJECT_DIR$/keyWordsAndExpression/keyWordsAndExpression.iml" />
+    </modules>
+  </component>
+</project>
